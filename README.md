@@ -1,5 +1,5 @@
 # JAVA-BUS-BOOKING-SOFTWARE
-A simple bus booking application developed with java
+*A simple bus booking application developed with java*
 ## HOW TO INSTALL  BUS BOOKING  SOFTWARE IN YOUR PC
 *****************************************************************
 1. Open bus booking software folder 
@@ -13,6 +13,6 @@ open your database connection in xammp or any other
  that comes with the installer  into the booking database and click ok
 Note
 ******************************************************
-The default username and password for admin is"hanson" and"kibet" respectively
+The default username and password for admin is**"hanson"** and**"kibet"** respectively
 for more visit [my youtube channel](https://www.youtube.com/watch?v=CKE-r9RXY4k&t=167s)
 
